@@ -1,0 +1,8 @@
+# Ignore Python virtual environment directories
+bin/
+lib/
+include/
+pyvenv.cfg
+__pycache__/
+*.pyc
+share/
